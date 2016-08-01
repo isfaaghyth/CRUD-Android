@@ -2,14 +2,15 @@
 Create, Read, Update, Delete in Native Android
 
 ##API Documentation:
+URL Parent = http://dev.daeng.id/crud/
 ###Show Json
-http://dev.daeng.id/crud/show.php
+show.php
 ###Insert
-http://dev.daeng.id/crud/insert.php?name=...&office=...&email=...
+insert.php?name=[]&office=[]&email=[]
 ###Delete
-http://dev.daeng.id/crud/delete.php?id=
+delete.php?id=[]
 ###Modify
-http://dev.daeng.id/crud/modify.php?id=...&name=...&office=...&email=...
+modify.php?id=[]&name=[]&office=[]&email=[]
 
 More in here:
 [CRUD Android](https://isfaaghyth.github.io/android/2016/07/29/crud-android-volley/)
